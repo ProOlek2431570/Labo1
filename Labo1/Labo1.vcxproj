@@ -124,7 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Faction.cpp" />
+    <ClCompile Include="FactoryVaisseau.cpp" />
     <ClCompile Include="Labo1.cpp" />
+    <ClCompile Include="Station.cpp" />
     <ClCompile Include="Vaisseau.cpp" />
     <ClCompile Include="VaisseauGuerre.cpp" />
     <ClCompile Include="VaisseauLivraison.cpp" />
@@ -132,6 +134,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Faction.h" />
+    <ClInclude Include="FactoryVaisseau.h" />
+    <ClInclude Include="Station.h" />
     <ClInclude Include="Vaisseau.h" />
     <ClInclude Include="VaisseauGuerre.h" />
     <ClInclude Include="VaisseauLivraison.h" />

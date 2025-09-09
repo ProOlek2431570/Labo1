@@ -1,8 +1,15 @@
 #pragma once
 #include <string>
 #include "Faction.h"
-using std::string;
+#include <cstdlib> 
+#include <ctime>
 
+using std::string;
+enum TypeVaisseau {
+	GUERRE,
+	TRANSPORT,
+	LIVRAISON
+};
 class Vaisseau
 {
 protected:
@@ -13,17 +20,19 @@ protected:
 	string nom;
 	int niveau;
 	int exp;
-	int valeurMarchande;
 	Faction* faction;
+	int valeurMarchande;
 
 public:
-	Vaisseau(string nom, int exp, int niveau, int attaque, int defense, int vie, int capacite, int valeurMarchande, Faction* faction);
+	Vaisseau(string nom, int exp, int niveau, int attaque, int defense, int vie, int capacite, int valeurMarchande, Faction* _faction);
+	Vaisseau(Faction* faction);
 	~Vaisseau();
 
 	int getAtt();
 	int getDef();
 	int getVie();	
-
 	virtual std::string to_String();
 };
+
+
 

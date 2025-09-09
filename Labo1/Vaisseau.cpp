@@ -1,18 +1,32 @@
 #include "Vaisseau.h"
 
-Vaisseau::Vaisseau(string nom, int exp, int niveau, int attaque, int defense, int vie, int capacite, int valeurMarchande, Faction* faction)
+Vaisseau::Vaisseau(string nom, int exp, int niveau, int attaque, int defense, int vie, int capacite, int valeurMarchande, Faction* _faction)
 {
 	this->nom = nom;
 	this->exp = exp;
 	this->niveau = niveau;
-	this->attaque = faction->modifierAttaque(attaque);
-	this->defense = faction->modifierDefense(defense);
-	this->vie = faction->modifierVie(vie);
-	this->capacite = faction->modifierCapacite(capacite);
+	this->attaque = _faction->modifierAttaque(attaque);
+	this->defense = _faction->modifierDefense(defense);
+	this->vie = _faction->modifierVie(vie);
+	this->capacite = _faction->modifierCapacite(capacite);
 	this->valeurMarchande = valeurMarchande;
-	this->faction = faction;
+	this->faction = _faction;
 	
 }
+
+Vaisseau::Vaisseau(Faction* faction)
+{
+	nom = "Vaisseau Alex ";
+	exp = 0;
+	niveau = 1;
+	attaque = 10;
+	defense = 10;
+	vie = 100;
+	capacite = 100;
+	valeurMarchande = 1000;
+	this->faction = faction;
+}
+
 Vaisseau::~Vaisseau()
 {
 	//vide pour le moment
