@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\Station.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\FactoryVaisseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\FactoryVaisseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Labo1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\Labo1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Faction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\Faction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\FactoryVaisseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\FactoryVaisseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Vaisseau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Vaisseau.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\Vaisseau.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Labo1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|solutionrelative:Labo1\\Labo1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFE99566-CEE6-4606-A435-45A0B5F65436}|Labo1\\Labo1.vcxproj|C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\VaisseauGuerre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -74,7 +74,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Vaisseau.h",
               "DocumentMoniker": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Vaisseau.h",
               "RelativeDocumentMoniker": "Labo1\\Vaisseau.h",
@@ -83,8 +83,7 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-28T18:08:46.162Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -92,9 +91,9 @@
               "Title": "Station.cpp",
               "DocumentMoniker": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Station.cpp",
               "RelativeDocumentMoniker": "Labo1\\Station.cpp",
-              "ToolTip": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Station.cpp*",
-              "RelativeToolTip": "Labo1\\Station.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Station.cpp",
+              "RelativeToolTip": "Labo1\\Station.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-09T23:25:43.714Z",
               "EditorCaption": ""
@@ -105,16 +104,16 @@
               "Title": "Station.h",
               "DocumentMoniker": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Station.h",
               "RelativeDocumentMoniker": "Labo1\\Station.h",
-              "ToolTip": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Station.h*",
-              "RelativeToolTip": "Labo1\\Station.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Station.h",
+              "RelativeToolTip": "Labo1\\Station.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-09T23:17:32.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Vaisseau.cpp",
               "DocumentMoniker": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Vaisseau.cpp",
               "RelativeDocumentMoniker": "Labo1\\Vaisseau.cpp",
@@ -122,8 +121,7 @@
               "RelativeToolTip": "Labo1\\Vaisseau.cpp",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-28T18:16:53.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:16:53.559Z"
             },
             {
               "$type": "Document",
@@ -135,12 +133,11 @@
               "RelativeToolTip": "Labo1\\Faction.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-07T17:16:34.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T17:16:34.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FactoryVaisseau.cpp",
               "DocumentMoniker": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\FactoryVaisseau.cpp",
               "RelativeDocumentMoniker": "Labo1\\FactoryVaisseau.cpp",
@@ -148,18 +145,17 @@
               "RelativeToolTip": "Labo1\\FactoryVaisseau.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T19:41:00.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T19:41:00.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Labo1.cpp",
               "DocumentMoniker": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Labo1.cpp",
               "RelativeDocumentMoniker": "Labo1\\Labo1.cpp",
               "ToolTip": "C:\\Users\\2431570\\Documents\\Code\\jeux_videos\\Labo_JeuxVideo\\Labo1\\Labo1.cpp",
               "RelativeToolTip": "Labo1\\Labo1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-28T18:06:21.878Z",
               "EditorCaption": ""
@@ -174,8 +170,7 @@
               "RelativeToolTip": "Labo1\\FactoryVaisseau.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-04T19:39:17.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T19:39:17.819Z"
             },
             {
               "$type": "Document",
@@ -187,8 +182,7 @@
               "RelativeToolTip": "Labo1\\Faction.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-30T21:19:12.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T21:19:12.396Z"
             },
             {
               "$type": "Document",
@@ -200,8 +194,7 @@
               "RelativeToolTip": "Labo1\\VaisseauLivraison.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-30T21:11:19.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T21:11:19.703Z"
             },
             {
               "$type": "Document",
@@ -213,8 +206,7 @@
               "RelativeToolTip": "Labo1\\VaisseauLivraison.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-30T21:10:30.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T21:10:30.877Z"
             },
             {
               "$type": "Document",
@@ -226,8 +218,7 @@
               "RelativeToolTip": "Labo1\\VaisseauTransport.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-28T19:09:09.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T19:09:09.599Z"
             },
             {
               "$type": "Document",
@@ -239,8 +230,7 @@
               "RelativeToolTip": "Labo1\\VaisseauTransport.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-28T19:15:46.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T19:15:46.889Z"
             },
             {
               "$type": "Document",
@@ -252,8 +242,7 @@
               "RelativeToolTip": "Labo1\\VaisseauGuerre.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-30T21:07:08.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T21:07:08.426Z"
             },
             {
               "$type": "Document",
@@ -265,8 +254,7 @@
               "RelativeToolTip": "Labo1\\VaisseauGuerre.cpp",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswBoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-30T21:08:30.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T21:08:30.38Z"
             }
           ]
         }

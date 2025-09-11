@@ -13,7 +13,7 @@ std::vector<Vaisseau*> Station::getVaisseauDispo()
 	return vecVaisseau;
 }
 
-int Station::ajouterVaisseau(Vaisseau * vaisseau)
+void Station::ajouterVaisseau(Vaisseau * vaisseau)
 {
 	vecVaisseau.push_back(vaisseau);
 }
