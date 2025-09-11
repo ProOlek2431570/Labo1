@@ -76,13 +76,12 @@ int main()
 		case 2:
 			system("cls");
 			cout << "\nAffichage de la liste de tous les vaisseaux\n";
-			for (auto vaisseau : maStation->getVaisseauDispo())
+			for (auto vaisseau : vaisseauxAcheter)
 			{
 				cout << vaisseau->to_String() << std::endl;
 			}
 			break;
 		case 3:
-			//TODO changer pour que les vaisseaux a achat soient differents
 			system("cls");
 			cout << "\nAffichage des vaisseaux disponibles a l'achat\n";
 			for (auto vaisseau : maStation->getVaisseauDispo())
