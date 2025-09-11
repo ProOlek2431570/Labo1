@@ -19,6 +19,6 @@ public:
 	std::vector<Vaisseau*> getVaisseauDispo();
 	void ajouterVaisseau(Vaisseau* vaisseau);
 	void init();
-
+	virtual std::string to_String();
 };
 

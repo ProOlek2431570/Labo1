@@ -31,6 +31,7 @@ public:
 	int getAtt();
 	int getDef();
 	int getVie();	
+	string getNom();
 	virtual std::string to_String();
 };
 
